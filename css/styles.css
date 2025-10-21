@@ -1,10 +1,130 @@
 body {
      font-family: "Roboto", "Raleway",
         sans-serif;
-        font-weight: 
-color: ;
-background-color: ;
-}
-.web {
+        color: #434455;
+        background-color: #fff;
+     }
+a {
+        text-decoration: none;
+     }
+ ul {
+    list-style-type: none;
+ }
+ .logo {
+    font-family: "Raleway";
+    font-size: 18px;
+    line-height: 1.16667;
     color: #4d5ae5;
+ }
+ .logo-studio {
+    font-family: "Raleway";
+    font-size: 18px;
+    line-height: 1.16667;
+     color: #2e2f42;
+ }
+ .back-color {
+ background-color: #fff;
+ }
+.nav-list {
+     font-weight: 500;
+     font-size: 16px;
+     color: #2e2f42;
+     line-height: 1.5;
+     
+
+        }
+.nav-list .list:hover,.nav-list .list:focus {
+                    color: #404bbf ;
+}
+.list {
+    font-weight: 400;
+        font-size: 16px;
+        color:#434455;
+        line-height: 1.5;
+
+}
+.info-list {
+    color: #434455;
+}
+.contact-list .info-list:hover, .contact-list .info-list:focus {
+   color: #404bbf;
+ 
+}
+
+ .color {
+    background: #2e2f42;
+    color: #fff;
+    font-weight: 700;
+    font-size: 56px;
+}
+.service-button {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    color: #fff;    
+    font-size: 16px;
+    line-height: 1.5;
+    cursor: pointer;
+}
+.service-button:hover {
+background-color: #404bbf;
+}
+
+   
+
+.team-color {
+    background-color: #f4f4fd;;
+}
+
+.team-item {
+    background-color: #fff;
+}
+.title {
+    font-size: 20px;
+    line-height: 1.2;
+}
+.text-title {
+    color: #434455;
+    line-height: 1.5    ;
+    font-size: 16px;
+}
+.team-title {
+    font-size: 36px;
+    line-height: 1.11111;
+}
+.team-name {
+    font-size: 20px;
+    line-height: 1.2;
+}
+.team-role {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+.team-portfolio {
+    font-size: 36px;
+    line-height: 1.11111;
+}
+.team-title {
+    font-size: 20px;
+    line-height: 1.2;
+}
+.post-title {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.section-color {
+    background-color: #2e2f42;
+}
+.text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f4f4fd;
+}
+.studio {
+    font-family: "Raleway";
+        font-size: 18px;
+        color: #f4f4fd;
+        line-height: 1.16667;
 }
