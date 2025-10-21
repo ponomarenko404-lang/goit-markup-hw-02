@@ -104,10 +104,11 @@ background-color: #404bbf;
     color: #2e2f42;
 }
 .title {
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
     font-weight: 500;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .text-title {
