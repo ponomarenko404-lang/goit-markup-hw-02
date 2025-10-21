@@ -65,7 +65,7 @@ a {
     line-height: 1.5;
     cursor: pointer;
 }
-.service-button:hover {
+.service-button:hover, .service-button:focus {
 background-color: #404bbf;
 }
 
